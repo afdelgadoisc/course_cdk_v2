@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # cdk.out
-.cdk.out/
+cdk.out/

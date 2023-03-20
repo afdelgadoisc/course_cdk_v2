@@ -1,0 +1,27 @@
+{
+  "name": "course_cdk_v2",
+  "version": "1.0.0",
+  "description": "Code with AWS and Typescript by creating serverless projects with CDK, CloudFormation, Cognito, Lambda and AWS Amplify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afdelgadoisc/course_cdk_v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afdelgadoisc/course_cdk_v2/issues"
+  },
+  "homepage": "https://github.com/afdelgadoisc/course_cdk_v2#readme",
+  "devDependencies": {
+    "aws-cdk": "^2.69.0",
+    "aws-cdk-lib": "^2.69.0",
+    "constructs": "^10.1.283",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}

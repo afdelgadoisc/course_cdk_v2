@@ -105,3 +105,6 @@ dist
 
 # cdk.out
 cdk.out/
+
+# requests
+requests.http
